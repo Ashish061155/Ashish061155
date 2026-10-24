@@ -14,7 +14,8 @@
 
 ### 🌟 About Me
 
-- 💻 Pursuing Diploma in Computer Science (AI & ML)
+- 💻 Diploma in Computer Science (AI & ML)
+- 💻 Prsuing BTech in Computer Science & Engineering (AI & ML)
 - 🧠 Strong grasp of Python, Java, and Data Structures
 - 🎨 UI/UX Design enthusiast | Figma + Tailwind CSS
 - 🤖 Learning Machine Learning to build smart, user-friendly applications
